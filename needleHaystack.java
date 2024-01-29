@@ -12,7 +12,7 @@ public class needleHaystack {
     public static void main(String[] args) {
         // Example usage:
         String haystack1 = "sadbutsad";
-        String needle1 = "sad";
+        String needle1 = "but";
         System.out.println(strStr(haystack1, needle1)); // Output: 0
 
         String haystack2 = "leetcode";
