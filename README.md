@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="250" height="auto" />
+  <img src="assets/logo.png" alt="logo" width="450" height="auto" />
   
   <p>
     365 Days 365 Leetcode Problems!  
