@@ -1,10 +1,9 @@
 
 <div align="center">
 
-  <img src="static/assets/images/logo.png" alt="logo" width="250" height="auto" />
+  <img src="assets/logo.png" alt="logo" width="250" height="auto" />
   
   <p>
-    365 DAYS OF DSA ! 
     365 Days 365 Leetcode Problems!  
   </p>
 
