@@ -7,10 +7,10 @@
 public class singleNumber {
     public static void main(String[] args) {
         int[] inputs = { 2, 2, 4, 1, 4 };
-        System.out.println(singleNumber(inputs));
+        System.out.println(singleNumberXOR(inputs));
     }
 
-    public static int singleNumber(int nums[]) {
+    public static int singleNumberXOR(int nums[]) {
         int result = 0;
         // XOR
         for (int num : nums) {

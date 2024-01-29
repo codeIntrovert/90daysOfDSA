@@ -12,10 +12,10 @@ public class LastWord {
 
         String input = "Hello this is introvertCoder speaking I love cats";
         // should output 4
-        System.out.println(LastWord(input));
+        System.out.println(LastWordFunc(input));
     }
 
-    public static int LastWord(String s) {
+    public static int LastWordFunc(String s) {
 
         String trimmedString = s.trim();
 
