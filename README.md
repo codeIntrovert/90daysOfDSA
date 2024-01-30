@@ -4,7 +4,7 @@
   <img src="assets/logo.png" alt="logo" width="450" height="auto" />
   
   <p>
-    365 Days 365 Leetcode Problems!  
+    Get Job Ready with 365 Leetcode Problems!  
   </p>
 
   
