@@ -26,9 +26,9 @@
 </p>
    
 <h4>
-    <a href="https://github.com/codeintrovert/365DaysOfDSA/">View Demo</a>
+    <a href="https://github.com/codeIntrovert/365daysOfDSA/tree/main/src">View Code</a>
   <span> · </span>
-    <a href="https://github.com/codeintrovert/365DaysOfDSA">Documentation</a>
+    <a href="https://github.com/codeIntrovert/365daysOfDSA/blob/main/README.md">Documentation</a>
   <span> · </span>
     <a href="https://github.com/codeintrovert/365DaysOfDSAe/issues/">Report Bug</a>
   <span> · </span>
@@ -38,62 +38,50 @@
 
 <br />
 
-<!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-
-
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
-  
-
 <!-- About the Project -->
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="ScreenshotLight.png" alt="screenshot" />
-  <img src="Screenshot.png" alt="screenshot" />
+  Welcome to the "365 Days of DSA" repository! 🎉 This is your one-stop destination for daily coding practice with Data Structures and Algorithms (DSA) problems. Whether you are preparing for technical interviews or just looking to enhance your problem-solving skills, we've got you covered!
+  
+  <hr>
+  <img src="http://ForTheBadge.com/images/badges/made-with-java.svg">
 </div>
 
+## 📅 Daily Challenge
+
+Each day, we'll release a new DSA problem along with its solution. You can use this repository to:
+
+- 🧠 Learn and understand various DSA concepts.
+- 💻 Implement solutions in Java.
+- 🚀 Sharpen your problem-solving skills.
+
+Feel free to contribute your own solutions or improve existing ones! Let's learn and grow together as a community.
+
+## 🛠️ Getting Started
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/codeintrovert/365DaysOfDSA
+```
+2. Navigate to the `src` folder
+```bash 
+cd ./365DaysOfDSA/src
+```
 
 <!-- TechStack -->
-### :space_invader: Tech Stack
+## :space_invader: Tech Stack
 
-<details>
-  <summary>Frontend</summary>
-  <ul>
-    <li><a href="https://www.python.org">Python</a></li>
-    <li><a href="https://www.jinja.org/">Jinja</a></li>
-    <li><a href="https://Sass.org/">Sass</a></li>
-    <li><a href="https://Bootstarp.com/">Bootstrap</a></li>
-  </ul>
-</details>
 
-<details>
-  <summary>Backend</summary>
-  <ul>
-    <li><a href="https://">Python</a></li>
-    <li><a href="https://">Flask</a></li>
-    <li><a href="https://">JavaScript</a></li>
-  </ul>
-</details>
+  - Java 
+  - TypeScript 
+  - Python 
 
-<!-- Features -->
-### :dart: Features
 
-- Large Free Courses Library
-- No Ads
-- No Sign Up Required
 
 <!-- Usage -->
-## :eyes: Visit Live Project!
+## :eyes: Live Project Coming Soon! 
 <ul><li>
 <a href="https://365DaysOfDSA.vercel.app/">365DaysOfDSA()</a>
 </li></ul>
@@ -110,15 +98,14 @@
 
 
 <!-- Contributing -->
-## :wave: Contributing
+## 🤝 Contributing
 
 <a href="https://github.com/codeintrovert/365DaysOfDSA/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=codeintrovert/365DaysOfDSA" />
 </a>
 
 
-Contributions are always welcome!
-Visit [CONTRIBUTING.md](https://github.com/codeintrovert/365DaysOfDSA) for more information
+Contributions are welcome and encouraged! Whether you find a bug, have a suggestion, or want to add your own solution, please follow the [contribution guidelines](https://github.com/codeIntrovert/365daysOfDSA/blob/main/CONTRIBUTING.md)
 
 
 <!-- License -->
@@ -137,6 +124,7 @@ Hasan Imam
 Email: codeColts@gmail.com
 Instagram: [@introvertCoder](https://instagram.com/introvertcoder)
 Youtube: [@introvertcoder](https://www.youtube.com/introvertCoder)
+Discord: 
 
 
 <!-- Acknowledgments -->
