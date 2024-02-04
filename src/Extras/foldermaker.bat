@@ -1,11 +1,12 @@
 @echo off
 setlocal enabledelayedexpansion
 
-REM THIS CODE HAS BEEN WRITTEN BY CHATGPT, USED TO MAKE FOLDERS IN BULK
+REM THIS CODE HAS BEEN USING CHATGPT, USED TO MAKE FOLDERS IN BULK
 REM DO NOT RUN UNLESS YOU KNOW WHAT YOU ARE DOING, FOR ADMIN USE ONLY.
-REM Set the number of days you want folders for INCRESE AS REQUIRED
 
-set /A "num_days=10" 
+
+REM Set the number of days you want folders for INCRESE AS REQUIRED
+set /A "num_days=15" 
 
 REM Loop to create folders
 for /L %%i in (1,1,%num_days%) do (
