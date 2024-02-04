@@ -1,6 +1,8 @@
 # Legal Disclaimer
 
-*Last Updated: 1/September/2023*
+*Last Updated: 5/February/2024*
+
+*Contents of this File are Applicable to All Projects Of IntrovertCoder, Codecolts & CodeIntrovert Lying under same Creator*
 
 Welcome to CodeColts ("the Website"). This Website is an open-source project designed to serve as a library of free coding video courses available across the web. The goal of CodeColts is to provide a curated collection of educational resources for individuals seeking coding tutorials and related content. Before using this Website, please take a moment to read and understand the following legal disclaimer.
 
