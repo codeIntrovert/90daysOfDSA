@@ -4,38 +4,41 @@
   <img src="assets/logo.png" alt="logo" width="450" height="auto" />
   
   <p>
-    Get Job Ready with 365 Leetcode Problems!  
+    Get Job Ready with 90 Leetcode Problems!  
   </p>
   <p>
     Starting Soon On <a href="https://www.youtube.com/introvertCoder">My Youtube Channel</a> !
+  </p>
+  <p>
+    A <a href="https://codecolts.vercel.app/">CodeColts</a> Project
   </p>
 
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/codeintrovert/365DaysOfDSA/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/codeIntrovert/365DaysOfDSA" alt="contributors" />
+  <a href="https://github.com/codeintrovert/90DaysOfDSA/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codeIntrovert/90DaysOfDSA" alt="contributors" />
   </a>
-  <a href="https://github.com/codeintrovert/365DaysOfDSA/commits/main">
-    <img src="https://img.shields.io/github/last-commit/codeIntrovert/365DaysOfDSA" alt="last update" />
+  <a href="https://github.com/codeintrovert/90DaysOfDSA/commits/main">
+    <img src="https://img.shields.io/github/last-commit/codeIntrovert/90DaysOfDSA" alt="last update" />
   </a>
-  <a href="https://github.com/codeintrovert/365DaysOfDSA/network/members">
-    <img src="https://img.shields.io/github/forks/codeIntrovert/365DaysOfDSA" alt="forks" />
+  <a href="https://github.com/codeintrovert/90DaysOfDSA/network/members">
+    <img src="https://img.shields.io/github/forks/codeIntrovert/90DaysOfDSA" alt="forks" />
   </a>
-  <a href="https://github.com/codeintrovert/365DaysOfDSA/stargazers">
-    <img src="https://img.shields.io/github/stars/codeIntrovert/365DaysOfDSA" alt="stars" />
+  <a href="https://github.com/codeintrovert/90DaysOfDSA/stargazers">
+    <img src="https://img.shields.io/github/stars/codeIntrovert/90DaysOfDSA" alt="stars" />
   </a>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img width="66" height="23.3" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 </p>
    
 <h4>
-    <a href="https://github.com/codeIntrovert/365daysOfDSA/tree/main/src">View Code</a>
+    <a href="https://github.com/codeIntrovert/90daysOfDSA/tree/main/src">View Code</a>
   <span> · </span>
-    <a href="https://github.com/codeIntrovert/365daysOfDSA/blob/main/README.md">Documentation</a>
+    <a href="https://github.com/codeIntrovert/90daysOfDSA/blob/main/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/codeintrovert/365DaysOfDSAe/issues/">Report Bug</a>
+    <a href="https://github.com/codeintrovert/90DaysOfDSAe/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/codeintrovert/365DaysOfDSA/issues/">Request Feature</a>
+    <a href="https://github.com/codeintrovert/90DaysOfDSA/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -45,7 +48,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  Welcome to the "365 Days of DSA" repository! 🎉 This is your one-stop destination for daily coding practice with Data Structures and Algorithms (DSA) problems. Whether you are preparing for technical interviews or just looking to enhance your problem-solving skills, we've got you covered!
+  Welcome to the "90 Days of DSA" repository! 🎉 This is your one-stop destination for daily coding practice with Data Structures and Algorithms (DSA) problems. Whether you are preparing for technical interviews or just looking to enhance your problem-solving skills, we've got you covered!
   
   <hr>
   <img src="http://ForTheBadge.com/images/badges/made-with-java.svg">
@@ -66,11 +69,11 @@ Feel free to contribute your own solutions or improve existing ones! Let's learn
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/codeintrovert/365DaysOfDSA
+git clone https://github.com/codeintrovert/90DaysOfDSA
 ```
 2. Navigate to the `src` folder
 ```bash 
-cd ./365DaysOfDSA/src
+cd ./90DaysOfDSA/src
 ```
 
 <!-- TechStack -->
@@ -86,29 +89,32 @@ cd ./365DaysOfDSA/src
 <!-- Usage -->
 ## :eyes: Live Project Coming Soon! 
 <ul><li>
-<a href="https://365DaysOfDSA.vercel.app/">365DaysOfDSA()</a>
-</li></ul>
+<a href="https://youtube.com/introvertCoder">Youtube Series Starting Soon!</a>
+</li>
+<li>
+<a href="https://codecolts.vercel.app/">CodeColts</a>
+</li>
+</ul>
 
 <!-- Roadmap -->
 ## :compass: Roadmap
 
 * [x] 10 Days Problem Solving Streak
-* [ ] 30 Days Problem Solving Streak
+* [ ] 20 Days Problem Solving Streak
+* [ ] 40 Days Problem Solving Streak
+* [ ] 60 Days Problem Solving Streak
 * [ ] 90 Days Problem Solving Streak
-* [ ] 150 Days Problem Solving Streak
-* [ ] 250 Days Problem Solving Streak
-* [ ] 365 Days Problem Solving Streak
 
 
 <!-- Contributing -->
 ## 🤝 Contributing
 
-<a href="https://github.com/codeintrovert/365DaysOfDSA/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeintrovert/365DaysOfDSA" />
+<a href="https://github.com/codeintrovert/90DaysOfDSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeintrovert/90DaysOfDSA" />
 </a>
 
 
-Contributions are welcome and encouraged! Whether you find a bug, have a suggestion, or want to add your own solution, please follow the [contribution guidelines](https://github.com/codeIntrovert/365daysOfDSA/blob/main/CONTRIBUTING.md)
+Contributions are welcome and encouraged! Whether you find a bug, have a suggestion, or want to add your own solution, please follow the [contribution guidelines](https://github.com/codeIntrovert/90daysOfDSA/blob/main/CONTRIBUTING.md)
 
 
 <!-- License -->
@@ -127,7 +133,7 @@ Hasan Imam
 Email: codeColts@gmail.com
 Instagram: [@introvertCoder](https://instagram.com/introvertcoder)
 Youtube: [@introvertcoder](https://www.youtube.com/introvertCoder)
-Discord: 
+Discord: introvertCoder
 
 
 <!-- Acknowledgments -->
