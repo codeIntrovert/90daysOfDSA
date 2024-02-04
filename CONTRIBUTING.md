@@ -1,6 +1,6 @@
 # Contribution Guidelines 🚀
 
-Thank you for considering contributing to our Python Flask project! We appreciate your interest and support. By contributing, you not only help improve the project but also become a valuable part of our growing community.
+Thank you for considering contributing to our JAVA project! We appreciate your interest and support. By contributing, you not only help improve the project but also become a valuable part of our growing community.
 
 ## Ways to Contribute 🤝
 
@@ -29,11 +29,11 @@ Help improve the project's documentation by fixing typos, clarifying instruction
 
 ## Getting Started 🚀
 
-If you're new to our project, check out the [README](https://github.com/codeIntrovert/codeColts/blob/main/README.md) file for information on setting up the development environment and running the application.
+If you're new to our project, check out the [README](https://github.com/codeIntrovert/90DaysOfDSA/blob/main/README.md) file for information on setting up the development environment and running the application.
 
 ## Code of Conduct 🤝
 
-Please note that we have a [Code of Conduct](https://github.com/codeIntrovert/codeColts/blob/main/CODE_OF_CONDUCT.md) in place. Be sure to read and follow it to ensure a positive and inclusive community.
+Please note that we have a [Code of Conduct](https://github.com/codeIntrovert/90DaysOfDSA/blob/main/CODE_OF_CONDUCT.md) in place. Be sure to read and follow it to ensure a positive and inclusive community.
 
 ## Questions and Feedback ❓
 
@@ -41,4 +41,4 @@ If you have questions or need clarification, feel free to reach out via GitHub i
 
 ## Thank You! 🙌
 
-Your contributions are invaluable to the success of this project. We appreciate your time and effort in making our Python Flask project even better! 🚀
+Your contributions are invaluable to the success of this project. We appreciate your time and effort in making our JAVA project even better! 🚀
