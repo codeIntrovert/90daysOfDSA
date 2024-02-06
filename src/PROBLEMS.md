@@ -15,8 +15,8 @@
 > Day 11: Word Pattern
 > Day 12: Valid Parenthesis
 > Day 13: Two Sum
-> Day 14: 
-> Day 15:
+> Day 14: Common Prefix
+> Day 15: Contains Duplicate
 > Day 16:
 > Day 17:
 > Day 18:
