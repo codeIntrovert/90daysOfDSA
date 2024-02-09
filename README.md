@@ -98,9 +98,9 @@ cd ./90DaysOfDSA/src
 
 <!-- Roadmap -->
 ## :compass: Roadmap
-
+- Video Series Comming Soon!
 * [x] 10 Days Problem Solving Streak
-* [ ] 20 Days Problem Solving Streak
+* [x] 20 Days Problem Solving Streak
 * [ ] 40 Days Problem Solving Streak
 * [ ] 60 Days Problem Solving Streak
 * [ ] 90 Days Problem Solving Streak
