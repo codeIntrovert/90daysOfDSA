@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/github/stars/codeIntrovert/90DaysOfDSA" alt="stars" />
   </a>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img width="66" height="23.3" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKkj-sW42Jj2eS6UlvbEgsA?label=IntrovertCoder)](https://www.youtube.com/introvertCoder/)
 </p>
    
 <h4>
@@ -52,6 +54,10 @@
   
   <hr>
   <img src="http://ForTheBadge.com/images/badges/made-with-java.svg">
+
+
+
+
 </div>
 
 ## 📅 Daily Challenge
@@ -135,7 +141,8 @@ Instagram: [@introvertCoder](https://instagram.com/introvertcoder)
 Youtube: [@introvertcoder](https://www.youtube.com/introvertCoder)
 Discord: introvertCoder
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODQuNjI1MDIyODg4MTgzNiIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDI4NC42MjUwMjI4ODgxODM2IDM1Ij48cmVjdCB3aWR0aD0iMTEyLjYyNTAwNzYyOTM5NDUzIiBoZWlnaHQ9IjM1IiBmaWxsPSIjZDAwMjFiIi8+PHJlY3QgeD0iMTEyLjYyNTAwNzYyOTM5NDUzIiB3aWR0aD0iMTcyLjAwMDAxNTI1ODc4OTA2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjRkZGRkZGIi8+PHRleHQgeD0iNTYuMzEyNTAzODE0Njk3MjY2IiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+U1VCU0NSSUJFITwvdGV4dD48dGV4dCB4PSIxOTguNjI1MDE1MjU4Nzg5MDYiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNkMDAyMWIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+SU5UUk9WRVJUQ09ERVI8L3RleHQ+PC9zdmc+">
+[![Youtube: introvertCoder](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/introvertCoder/)
+
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
