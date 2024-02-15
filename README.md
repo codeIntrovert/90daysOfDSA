@@ -7,7 +7,7 @@
     Get Job Ready with 90 Leetcode Problems!  
   </p>
   <p>
-   ❗❗ Starting Soon On <a href="https://www.youtube.com/introvertCoder">My Youtube Channel</a> ❗❗
+   <strong>Starting Soon On <a href="https://www.youtube.com/introvertCoder">My Youtube Channel</a> !</strong>
   </p>
   <p>
     A <a href="https://codecolts.vercel.app/">CodeColts</a> Project
