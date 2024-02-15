@@ -151,4 +151,21 @@ Discord: introvertCoder
  - [Shields.io](https://shields.io/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
+## :pen: Developer's Note:
 
+```html
+
+This repository will be put on hold for 
+a week as I need time to prepare for the series.
+
+This means that there would be 
+very few updates to the repository during this week,
+as I learn new concepts of DSA (i.e., Binary Trees, Linked Lists, etc.) 
+and prepare for the series.
+
+We will be back with a bang soon! 💥
+
+Apologies for the inconvenience.
+
+
+```
