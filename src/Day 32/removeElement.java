@@ -9,4 +9,17 @@ public class removeElement {
         return k; // Return the count of elements not equal to val
     }
 
+    public static void main(String[] args) {
+        removeElement solution = new removeElement();
+
+        // Example 1
+        int[] nums1 = { 3, 2, 2, 3 };
+        int val1 = 3;
+        System.out.println(solution.removeElementFunc(nums1, val1)); // Output: 2
+
+        // Example 2
+        int[] nums2 = { 0, 1, 2, 2, 3, 0, 4, 2 };
+        int val2 = 2;
+        System.out.println(solution.removeElementFunc(nums2, val2)); // Output: 5
+    }
 }
