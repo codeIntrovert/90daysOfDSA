@@ -160,7 +160,7 @@ a week as I need time to prepare for the series.
 
 This means that there would be 
 very few updates to the repository during this week,
-as I learn new concepts of DSA (i.e., Binary Trees, Linked Lists, etc.) 
+as I learn new concepts of DSA (i.e Binary Trees, Linked Lists and more.) 
 and prepare for the series.
 
 We will be back with a bang soon! 💥
