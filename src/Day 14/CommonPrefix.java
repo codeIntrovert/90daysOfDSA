@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+public class CommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         Arrays.sort(strs);
         String s1 = strs[0];
@@ -17,8 +17,8 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        CommonPrefix CommonPrefix = new CommonPrefix();
         String[] input = { "flower", "flow", "flight" }; // Create an array of strings
-        System.out.println(solution.longestCommonPrefix(input)); // Call the method on the instance
+        System.out.println(CommonPrefix.longestCommonPrefix(input)); // Call the method on the instance
     }
 }
