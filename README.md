@@ -107,7 +107,7 @@ cd ./90DaysOfDSA/src
 - Video Series Comming Soon!
 * [x] 10 Days Problem Solving Streak
 * [x] 20 Days Problem Solving Streak
-* [ ] 40 Days Problem Solving Streak
+* [x] 40 Days Problem Solving Streak
 * [ ] 60 Days Problem Solving Streak
 * [ ] 90 Days Problem Solving Streak
 
@@ -152,7 +152,7 @@ Discord: introvertCoder
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ## :pen: Developer's Note:
-
+#### `19/February/2024`
 ```html
 
 This repository will be put on hold for 
