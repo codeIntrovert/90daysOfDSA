@@ -1,5 +1,5 @@
 public class findGCD {
-    public static int findGCD(int[] nums) {
+    public static int GCD(int[] nums) {
         int n = nums.length;
         int max = nums[0];
         int min = nums[0];
@@ -20,14 +20,11 @@ public class findGCD {
     public static void main(String[] args) {
         // Example 1
         int[] nums1 = { 2, 5, 6, 9, 10 };
-        System.out.println(findGCD(nums1)); // Output: 1
+        System.out.println(GCD(nums1)); // Output: 1
 
         // Example 2
         int[] nums2 = { 7, 5, 6, 8, 3 };
-        System.out.println(findGCD(nums2)); // Output: 1
+        System.out.println(GCD(nums2)); // Output: 1
 
-        // Example 3
-        int[] nums3 = { 3, 3 };
-        System.out.println(findGCD(nums3)); // Output: 3
     }
 }
