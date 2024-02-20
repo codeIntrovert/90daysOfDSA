@@ -1,5 +1,5 @@
 public class countAndSay {
-    public String countAndSay(int n) {
+    public String countAndSayfunc(int n) {
         String s = "1";
         for (int i = 2; i <= n; i++) {
             s = countAndAdd(s);
