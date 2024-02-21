@@ -1,10 +1,4 @@
 // https://leetcode.com/problems/jump-game/
-
-import java.util.Arrays;
-
-/**
- * jumpGame
- */
 public class jumpGame {
 
     public static void main(String[] args) {
