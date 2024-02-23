@@ -1,8 +1,7 @@
 ### These are the problems that already have been solved;
 
-```java
-
-> Day 01: Roman Number to Integer // short description of the problem
+```
+> Day 01: Roman Number to Integer // add short description of the problem if needed
 > Day 02: Check Palindrome Number
 > Day 03: Find Length of the last word
 > Day 04: Best Time to Buy a Stock
