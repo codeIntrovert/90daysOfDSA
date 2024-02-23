@@ -141,8 +141,6 @@ Instagram: [@introvertCoder](https://instagram.com/introvertcoder)
 Youtube: [@introvertcoder](https://www.youtube.com/introvertCoder)
 Discord: introvertCoder
 
-[![Youtube: introvertCoder](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/introvertCoder/)
-
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
@@ -152,20 +150,20 @@ Discord: introvertCoder
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ## :pen: Developer's Note:
-#### `19/February/2024`
+#### `23/February/2024`
 ```html
+This Github Repo now has over 60 solutions, 
+and since i also need to make a video series for the project.
 
-This repository will be put on hold for 
-a week as I need time to prepare for the series.
+I won't be uploading more solutions as of now so i can make videos,
+But I will be returing soon (possibly within a month)!
 
-This means that there would be 
-very few updates to the repository during this week,
-as I learn new concepts of DSA (i.e Binary Trees, Linked Lists and more.) 
-and prepare for the series.
+In this period I may not be uploading code but I will still be actively 
+managing the repo so feel free to open new issues or collaborate
+by fixing existing issues!
 
-We will be back with a bang soon! 💥
-
-Apologies for the inconvenience.
-
-
+Checkout My Youtube Channel for the updates on this series :)
+Happy Coding! 
 ```
+
+[![Youtube: introvertCoder](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/introvertCoder/)
