@@ -108,7 +108,7 @@ cd ./90DaysOfDSA/src
 * [x] 10 Days Problem Solving Streak
 * [x] 20 Days Problem Solving Streak
 * [x] 40 Days Problem Solving Streak
-* [ ] 60 Days Problem Solving Streak
+* [x] 60 Days Problem Solving Streak
 * [ ] 90 Days Problem Solving Streak
 
 
@@ -152,18 +152,13 @@ Discord: introvertCoder
 ## :pen: Developer's Note:
 #### `23/February/2024`
 ```html
-This Github Repo now has over 60 solutions, 
-and since i also need to make a video series for the project.
+This GitHub Repo now has over 60 solutions,
+but I won't be uploading more for now as I need to focus on creating a video series.
+I'll return soon (possibly within a month)!
 
-I won't be uploading more solutions as of now so i can make videos,
-But I will be returing soon (possibly within a month)!
-
-In this period I may not be uploading code but I will still be actively 
-managing the repo so feel free to open new issues or collaborate
-by fixing existing issues!
-
-Checkout My Youtube Channel for the updates on this series :)
-Happy Coding! 
+Feel free to open new issues or collaborate by fixing existing ones.
+Stay tuned on my YouTube Channel for updates.
+Happy Coding!
 ```
 
 [![Youtube: introvertCoder](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/introvertCoder/)
