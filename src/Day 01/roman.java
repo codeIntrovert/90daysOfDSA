@@ -8,34 +8,6 @@ public class roman {
          */
     }
 
-    public static int romanToInt(String romanInput) {
-        int total = 0;
-        for (int i = 0; i < romanInput.length(); i++) {
-            if (romanInput.charAt(i) == 'I') {
-                total += 1;
-            }
-            if (romanInput.charAt(i) == 'V') {
-                total += 5;
-            }
-            if (romanInput.charAt(i) == 'X') {
-                total += 10;
-            }
-            if (romanInput.charAt(i) == 'L') {
-                total += 50;
-            }
-            if (romanInput.charAt(i) == 'C') {
-                total += 100;
-            }
-            if (romanInput.charAt(i) == 'D') {
-                total += 500;
-            }
-            if (romanInput.charAt(i) == 'M') {
-                total += 1000;
-            }
-        }
-        return total;
-    }
-
     public static int romanSwitch(String romanInput) {
 
         int total = 0;
