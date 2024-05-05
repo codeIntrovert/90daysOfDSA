@@ -150,11 +150,10 @@ Discord: introvertCoder
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ## :pen: Developer's Note:
-#### `23/February/2024`
+#### `5/May/2024`
 ```html
 This GitHub Repo now has over 60 solutions,
-but I won't be uploading more for now as I need to focus on creating a video series.
-I'll return soon (possibly within a month)!
+We're back! repo will be updated with more solutions and a video series soon!
 
 Feel free to open new issues or collaborate by fixing existing ones.
 Stay tuned on my YouTube Channel for updates.
