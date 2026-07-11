@@ -1,21 +1,21 @@
 ### These are the problems that already have been solved;
 
 ```
-> Day 01: Roman Number to Integer // add short description of the problem if needed
-> Day 02: Check Palindrome Number
-> Day 03: Find Length of the last word
-> Day 04: Best Time to Buy a Stock
-> Day 05: Integer to Roman Numeral
-> Day 06: Needle in a Haystack String Problem
-> Day 07: Excel Sheet Number to Letter
-> Day 08: Reverse Number II
-> Day 09: Single Number Check
-> Day 10: Ugly Number
-> Day 11: Word Pattern
-> Day 12: Valid Parenthesis
-> Day 13: Two Sum
-> Day 14: Common Prefix
-> Day 15: Contains Duplicate
+> Day 01: 
+> Day 02: 
+> Day 03: 
+> Day 04: 
+> Day 05: 
+> Day 06: 
+> Day 07: 
+> Day 08: 
+> Day 09: 
+> Day 10: 
+> Day 11: 
+> Day 12: 
+> Day 13: 
+> Day 14: 
+> Day 15: 
 > Day 16:
 > Day 17:
 > Day 18:
