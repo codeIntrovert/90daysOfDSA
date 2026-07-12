@@ -9,9 +9,10 @@ Hey there, future problem solvers and coding enthusiasts! Welcome to my GitHub r
 
 Every day for the next 90 days, I'll be posting a new LeetCode problem along with its solution in Java. Each day's solution will be neatly organized under the `./src` directory, categorized by days from Day01 to Day90. Within each day's folder, you'll find the LeetCode problem link and its corresponding Java solution. 📝
 
-## Let's Learn Together! 🤓
-
-Learning DSA doesn't have to be intimidating! Whether you're a seasoned developer or just starting out, this repository is for you. Each solution is accompanied by a YouTube short video, where I'll explain the problem and walk you through the thought process behind the solution in just one video per problem. 📹
+## STUDY PLAN
+ - Easy Beginner: [leetcode.com/studyplan/programming-skills/](https://leetcode.com/studyplan/programming-skills/)
+ - Easy/Medium: [leetcode.com/studyplan/leetcode-75/](https://leetcode.com/studyplan/leetcode-75/)
+ - Binary Search: [leetcode.com/studyplan/binary-search/](https://leetcode.com/studyplan/binary-search/)
 
 ## Why Java? ☕
 
