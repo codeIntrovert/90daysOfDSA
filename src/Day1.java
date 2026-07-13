@@ -1,6 +1,6 @@
 /**
  * TODAY WE LEARN THE BASICS HOW INPUTS WORKS IN DSA ETC ETC 
- * https://leetcode.com/problems/plus-one/?envType=study-plan-v2&envId=programming-skills
+ * https://leetcode.com/problems/plus-one/
  */
 
 class Solution {
