@@ -1,8 +1,8 @@
 ### These are the problems that already have been solved;
 
 ```
-> Day 01: 
-> Day 02: 
+> Day 01: https://leetcode.com/problems/plus-one/
+> Day 02: https://leetcode.com/problems/to-lower-case/
 > Day 03: 
 > Day 04: 
 > Day 05: 
