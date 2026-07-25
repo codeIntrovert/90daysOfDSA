@@ -4,7 +4,7 @@
 > Day 01: https://leetcode.com/problems/plus-one/
 > Day 02: https://leetcode.com/problems/to-lower-case/
 > Day 03: https://leetcode.com/problems/length-of-last-word/
-> Day 04: 
+> Day 04: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 > Day 05: 
 > Day 06: 
 > Day 07: 
